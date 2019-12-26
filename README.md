@@ -1,5 +1,8 @@
 <h1 align="center">ShowUp</h1>
 
+### Description
+This is my fork of a group project I was part of for NYU CS-GY 6063. It's a web app for finding people to go to concerts with. You can see the app [here](http://showup-nyc.herokuapp.com/).
+
 ### Badges
 |  Service  | Master | Develop |
 |-----------|--------|---------|
